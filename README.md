@@ -17,6 +17,7 @@ Your task is to **fix the bugs** and explain **why they happened**.
 
 4. Fix the bugs and commit your changes in a new branch:
 
+    ```bash
     git checkout -b fix-bugs
     git add .
     git commit -m "Fixed buggy code"
